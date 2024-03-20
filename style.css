@@ -7,6 +7,12 @@ body {
     text-align: center;
     justify-content: center;
 }
+body h1{
+    font-size: 36px;
+        color: #333;
+        font-family: Arial, sans-serif;
+        margin-bottom: 20px;
+}
 .calculator {
     border-radius: 5px;
     padding: 20px;
